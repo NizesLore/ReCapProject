@@ -1,6 +1,5 @@
 # ReCapProject
-Merhaba,
 Core katmanı oluşturuldu.
-Core katmanında IEntity, IDto, IEntityRepository, EfRepositoryBase dosyları eklendi.
+Core katmanında IEntity, IDto, IEntityRepository, EfRepositoryBase dosyaları eklendi.
 Car, Brand, Color sınıfları için tüm CRUD operasyonları hazırlandı.
 Arabalar CarName, BrandName, ColorName, DailyPrice şeklinde sıralandı.
